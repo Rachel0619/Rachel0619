@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Tableau, AWS, and Databricks<br>🎯 Goals: I'm looking for DA/DS positions (full-time/intern) in Canada. <br>🎲 Fun fact: I have watched the Breaking Bad three times! </p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Tableau, AWS, and Databricks<br>🎯 Goals: I'm looking for DA/DS positions (full-time/intern) in Canada <br>🎲 Fun fact: I have watched the Breaking Bad three times! </p>
 
 ###
 
