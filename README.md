@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm glad you are here! </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Tableau, AWS, and Databricks<br>🎯 Goals: I'm looking for DA/DS positions (full-time/intern) in Canada <br>🎲 Fun fact: I have watched The Breaking Bad three times! </p>
+<p align="left">✨ I'm an Ex-Fixed Income Trader and a data enthusiast <br>📚 I'm eager to make real-world impacts by leveraging DS/AI techniques <br>🎯 I'm looking for DA/DS positions (full-time/internship) in Canada <br>🎲 Fun fact: I have watched The Breaking Bad three times! </p>
 
 ###
 
