@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rachel Li and I'm a Prompt Engineer at Meta via TEKsystems (Contingent Worker) </p>
+<p align="left">My name is Rachel Li. I'm a Prompt Engineer at Meta via TEKsystems (Contingent Worker). </p>
 
 ###
 
