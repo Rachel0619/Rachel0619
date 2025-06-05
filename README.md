@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rachel Li and I'm a new grad from the Master of Data Science program at UBC. </p>
+<p align="left">My name is Rachel Li and I'm a Prompt Engineer at Meta via TEKsystems (Contingent Worker) </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm an Ex-Fixed Income Trader and a data enthusiast <br>📚 I'm eager to make real-world impacts by leveraging DS/AI techniques <br>🎯 I'm looking for DA/DS positions (full-time/internship) in Canada <br>🎲 Fun fact: I have watched The Breaking Bad three times! </p>
+<p align="left">✨ I'm an Ex-Fixed Income Trader and a data enthusiast <br>📚 I'm eager to make real-world impacts by leveraging DS/AI techniques <br>🎯 I'm looking for DS/AI positions in Canada <br>🎲 Fun fact: I have watched The Breaking Bad three times! </p>
 
 ###
 
