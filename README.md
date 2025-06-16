@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm an Ex-Fixed Income Trader and a data enthusiast <br>📚 I'm eager to make real-world impacts by leveraging DS/AI techniques <br>🎯 I'm looking for DS/AI positions in Canada <br>🎲 Fun fact: I have watched The Breaking Bad three times! </p>
+<p align="left">✨ I'm an Ex-Fixed Income Trader and an AI enthusiast <br>📚 I'm eager to make real-world impacts by leveraging DS/AI techniques <br>🎯 I'm looking for DS/AI positions in Canada <br>🎲 Fun fact: I have watched The Breaking Bad three times! </p>
 
 ###
 
