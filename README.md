@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rachel Li. I'm a Prompt Engineer at Meta via TEKsystems (Contingent Worker) based in Vancouver. </p>
+<p align="left">My name is Rachel Li. I'm a Prompt Engineer at Meta via TEKsystems (Contingent Worker) based in Vancouver. I love data, machine learning and AI. </p>
 
 ###
 
